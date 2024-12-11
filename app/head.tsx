@@ -2,23 +2,18 @@ export default function Head() {
   return (
     <>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college." />
-      <meta name="keywords" content="jigar sable, portfolio, jigar, full stack dev, nextjs portfolio, portfolio design, portfolio website, personal portfolio" />
-      <meta property="og:site_name" content="Jigar Sable's Portfolio" />
-      <meta property="og:title" content="Portfolio | Jigar Sable - Full Stack Developer" />
+      <meta name="description" content="I am an Argentinian 🇦🇷 Data Analyst with a background in Industrial Engineering. I specialize in transforming data into meaningful insights and crafting visually engaging dashboards to drive informed decision-making. With expertise in tools like Python, SQL, and Power BI, I focus on creating user-friendly and impactful visualizations that bring data to life. I am passionate about combining technical proficiency with creativity to deliver results that add value and inspire action." />
+      <meta name="keywords" content="juan pablo bertone, portfolio, juan, data analyst, python, portfolio design, portfolio website, personal portfolio" />
+      <meta property="og:site_name" content="Juan Pablo Bertone's Portfolio" />
+      <meta property="og:title" content="Portfolio | Juan Bertone - Data Analyst" />
       <meta property="og:description"
-        content="I'm Jigar Sable, full-stack developer based in Pune, India. My journey in web development began during my first year of college." />
-      <meta property="og:url" content="https://jigarsable.vercel.app" />
-      <meta property="og:image" content="https://jigarsable.vercel.app/portfolio-fork.png" />
-      <link rel="canonical" href="https://jigarsable.vercel.app" />
-      <meta name="author" content="Jigar Sable" />
+        content="I am an Argentinian 🇦🇷 Data Analyst with a background in Industrial Engineering. I specialize in transforming data into meaningful insights and crafting visually engaging dashboards to drive informed decision-making. With expertise in tools like Python, SQL, and Power BI, I focus on creating user-friendly and impactful visualizations that bring data to life. I am passionate about combining technical proficiency with creativity to deliver results that add value and inspire action." />
+      <meta name="author" content="Juan Pablo Bertone" />
       <meta name="language" content="English" />
-      <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="https://jigarsable.vercel.app" />
-      <meta name="application-name" content="Portfolio | Jigar Sable - Full Stack Developer" />
-      <meta name="apple-mobile-web-app-title" content="Portfolio | Jigar Sable - Full Stack Developer" />
+      <meta name="application-name" content="Portfolio | Juan Bertone - Data Analyst" />
+      <meta name="apple-mobile-web-app-title" content="Portfolio | Juan Bertone - Data Analyst" />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Jigar Sable - Full Stack Developer</title>
+      <title>Portfolio | Juan Bertone - Data Analyst</title>
     </>
   )
 }

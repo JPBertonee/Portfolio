@@ -6,7 +6,7 @@
       "Data Analytics",
       "Data Science"
     ],
-    "heroImage": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733904939/foto_full_nbndq7.png",
+    "heroImage": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733915754/Recolor_foto_at1e32.png",
     "techStackImages": [
       "https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000",
       "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
@@ -38,20 +38,106 @@
   ],
   "skills": [
     {
-      "name": "JavaScript",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
+      "name": "Power BI",
+      "image": "https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000",
+      "category": "Analytics"
     },
     {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
+      "name": "Tableau",
+      "image": "https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000",
+      "category": "Analytics"
+    },
+    {
+      "name": "Excel",
+      "image": "https://img.icons8.com/?size=100&id=117561&format=png&color=000000",
+      "category": "Analytics"
+    },
+    {
+      "name": "Google Looker",
+      "image": "https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000",
+      "category": "Analytics"
+    },
+    {
+      "name": "Python",
+      "image": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000",
+      "category": "Languages"
+    },
+    {
+      "name": "SQL",
+      "image": "https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000  ",
+      "category": "Languages"
+    },
+    {
+      "name": "VBA",
+      "image": "https://img.icons8.com/?size=100&id=DuGs7KGIXkDA&format=png&color=000000",
+      "category": "Languages"
+    },
+    {
+      "name": "Pandas",
+      "image": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000",
+      "category": "Libraries"
+    },
+    {
+      "name": "NumPy",
+      "image": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000",
+      "category": "Libraries"
+    },
+    {
+      "name": "Matplotlib",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733995282/Matplotlib_Icon_vbkztq.png",
+      "category": "Libraries"
+    },
+    {
+      "name": "Scikit-learn",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733995346/Scikit-learn_Icon_ltdjri.png",
+      "category": "Libraries"
+    },
+    {
+      "name": "TextBlob",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733995985/Invertir_colores_online_mt2buy.png",
+      "category": "Libraries"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000",
+      "category": "Extra"
+    },
+    {
+      "name": "FastAPI",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733996525/FastAPI_Icon_v1v61r.png",
+      "category": "Extra"
     },
     {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
+      "category": "Extra"
+    },
+    {
+      "name": "Jupyter Notebook",
+      "image": "https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000",
+      "category": "Extra"
+    },
+    {
+      "name": "VSC",
+      "image": "https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000",
+      "category": "Extra"
+    },
+    {
+      "name": "Cloud Storage",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733996312/Icono_Google_Storage_dl3klv.png",
+      "category": "Extra"
+    },
+    {
+      "name": "BigQuery",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733996149/BigQuery_Icon_twqexe.png",
+      "category": "Extra"
+    },
+    {
+      "name": "Cloud Funtions",
+      "image": "https://res.cloudinary.com/dwyzrynk5/image/upload/v1733995850/Icono_de_Google_Cloud_Functions_ifbs0l.png",
+      "category": "Extra"
     }
+
   ],
   "projects": [
     {
